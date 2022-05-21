@@ -32,8 +32,6 @@
 <h4>My Github Stats 📊</h4>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AG4lyf&count_private=true&show_icons=true&theme=radical" alt="Github Stats" width="75%"/>
-<h4 align="left">Languages and Tools:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG4lyf&theme=radical" alt="Language Stats" width="75%"/>
 <h4>Since May 5, 2022™ </h3>
 <a href="https://wakatime.com/@AG4lyf">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AG4lyf&theme=radical" alt="Wakatime Stats" width="75%"/>
