@@ -4,13 +4,18 @@
 
 - 🌱 I’m currently learning **Ruby, C++.**
 - ✔  I know **Python, C** and A bit of JavaScript. 
-- ✉ You can mail me directly <a href="mailto:surajbhari159@gmail.com"> here</a> (surajbhari159@gmail.com)
+- ✉ You can mail me directly <a href="mailto:surajbhari159@gmail.com"> here</a> (surajbhari159@gmail.com).
 - 👨‍🎓 I am currently pursuing my **B Tech CS.** from <a href="http://gehu.ac.in/"> G.E.H.U Dehradun.</a> [Batch of 2021-2025]
 </br>
 </br>
 
 <h2> Other things about me:</h2>
 
+- 🎵 I love to listen to Music.
+- 🌐 I have interest in Networking.
+- 🗣 I can speak **English, Hindi**.
+- 🏎 I love to watch Formula 1 Racing.
+- 🎮 I love to play **Video Games** mainly First Person shooters like CS:GO.
 - 🖥 I sat in front of  computer when I was 6 year old.
 - 🏃‍♂️Started Programming when I was 15 year old.
 - 💻 My go to Operating System for programming is Windows. But I prefer to host my stuff on a Linux server.
