@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Ruby, C++.**
 - ✔  I know **Python, C** and A bit of JavaScript. 
-- 💌 You can mail me directly <a href="mailto:surajbhari159@gmail.com"> here</a> (surajbhari159@gmail.com)
+- ✉ You can mail me directly <a href="mailto:surajbhari159@gmail.com"> here</a> (surajbhari159@gmail.com)
 - 👨‍🎓 I am currently pursuing my **B Tech CS.** from <a href="http://gehu.ac.in/"> G.E.H.U Dehradun.</a> [Batch of 2021-2025]
 </br>
 </br>
