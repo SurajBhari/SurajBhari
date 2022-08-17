@@ -2,7 +2,7 @@
 <h3 align="center">Am a neophile who loves to spend 30 minutes to automate 2 minute work.</h3>
 </br>
 
-- 🌱 I’m currently ~~trying~~ learning **Rust, C++.**
+- 🌱 I’m currently ~~trying~~ learning **C++.**
 - ✔  I know **Python, C** and A bit of JavaScript. 
 - ✉ You can mail me directly <a href="mailto:surajbhari159@gmail.com"> here</a> (surajbhari159@gmail.com).
 - 👨‍🎓 I am currently pursuing my **B Tech CS.** from <a href="http://gehu.ac.in/"> G.E.H.U Dehradun.</a> [Batch of 2021-2025]
