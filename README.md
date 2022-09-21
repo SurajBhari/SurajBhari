@@ -32,7 +32,4 @@
 <h4>My Github Stats 📊</h4>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AG4lyf&count_private=true&show_icons=true&theme=radical" alt="Github Stats" width="300"/>
-<h4>Since May 5, 2022™ </h3>
-<a href="https://wakatime.com/@AG4lyf">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AG4lyf&theme=radical" alt="Wakatime Stats" width="300"/>
-</a>
+
