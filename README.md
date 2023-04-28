@@ -25,7 +25,7 @@
 <h2 align="left">Connect with me on my socials:</h3>
 <p align="left">
 
-<a href="https://suraj1436.site">Website</a> for all of my socials.
+<a href="https://surajbhari.info">Website</a> for all of my socials.
 
 </p>
 </br></br>
