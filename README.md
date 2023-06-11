@@ -1,35 +1,34 @@
-<h1 align="center">Heyy, I'm Suraj Bhari From 🇮🇳.</h1>
-<h3 align="center">Am a neophile who loves to spend 30 minutes to automate 2 minute work.</h3>
-</br>
+<h1 align="center">Hey there, I'm Suraj Bhari from 🇮🇳.</h1>
+<h3 align="center">I'm a neophile who finds joy in automating tasks that would normally take just a couple of minutes.</h3>
+<br>
 
-- 🌱 I’m currently ~~trying~~ learning **C++.**
-- ✔  I know **Python, C** and A bit of JavaScript. 
-- ✉ You can mail me directly <a href="mailto:surajbhari159@gmail.com"> here</a> (surajbhari159@gmail.com).
-- 👨‍🎓 I am currently pursuing my **B Tech CS.** from <a href="http://gehu.ac.in/"> G.E.H.U Dehradun.</a> [Batch of 2021-2025]
-</br>
-</br>
+- 🌱 Currently, I'm deepening my knowledge of **C++**.
+- ✔ Proficient in **Python, C**, and have a basic understanding of JavaScript.
+- ✉ Feel free to reach out to me directly via email at <a href="mailto:surajbhari159@gmail.com">surajbhari159@gmail.com</a>.
+- 👨‍🎓 I am currently pursuing my **B Tech in CS** from <a href="http://gehu.ac.in/">G.E.H.U Dehradun</a> [Batch of 2021-2025].
+<br>
+<br>
 
-<h2> Other things about me:</h2>
+<h2>Other things about me:</h2>
 
-- 🎵 I love to listen to Music.
-- 🌐 I have interest in Networking.
-- 🗣 I can speak **English, Hindi**.
-- 🏎 I love to watch Formula 1 Racing.
-- 🎮 I love to play **Video Games** mainly First Person shooters like CS:GO.
-- 🖥 I sat in front of  computer when I was 6 year old.
-- 🏃‍♂️Started Programming when I was 15 year old.
-- 💻 My go to Operating System for programming is Windows. But I prefer to host my stuff on a Linux server.
+- 🎵 I love listening to music.
+- 🌐 Networking interests me.
+- 🗣 I am fluent in **English** and **Hindi**.
+- 🏎 Formula 1 racing is something I enjoy watching.
+- 🎮 Playing video games, especially first-person shooters like CS:GO, brings me joy.
+- 🖥 I sat in front of a computer for the first time when I was just 6 years old.
+- 🏃‍♂️ I started programming at the age of 15.
+- 💻 While I prefer programming on Windows, I like hosting my projects on Linux servers.
 
 
-</br>
-<h2 align="left">Connect with me on my socials:</h3>
+<br>
+<h2 align="left">Connect with me on my social media:</h3>
 <p align="left">
 
-<a href="https://surajbhari.info">Website</a> for all of my socials.
+Visit my <a href="https://surajbhari.info">website</a> to find links to all of my social media profiles.
 
 </p>
-</br></br>
-<h4>My Github Stats 📊</h4>
+<br><br>
+<h4>My GitHub Stats 📊</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AG4lyf&count_private=true&show_icons=true&theme=radical" alt="Github Stats" width="300"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=AG4lyf&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
