@@ -18,7 +18,7 @@
 - 🎮 Playing video games, especially first-person shooters like CS:GO, brings me joy.
 - 🖥 I sat in front of a computer for the first time when I was just 6 years old.
 - 🏃‍♂️ I started programming at the age of 15.
-- 💻 While I prefer programming on Windows, I like hosting my projects on Linux servers.
+- 💻 While I prefer programming on Windows, I like hosting my projects on Ubuntu.
 
 
 <br>
