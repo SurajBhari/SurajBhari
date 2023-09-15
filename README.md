@@ -31,4 +31,4 @@ Visit my <a href="https://surajbhari.info">website</a> to find links to all of m
 <br><br>
 <h4>My GitHub Stats 📊</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AG4lyf&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SurajBhari&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
