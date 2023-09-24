@@ -28,7 +28,17 @@
 Visit my <a href="https://surajbhari.info">website</a> to find links to all of my social media profiles.
 
 </p>
-<br><br>
-<h4>My GitHub Stats 📊</h4>
+
+<h2>My GitHub Stats 📊</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SurajBhari&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
+
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=julia)
+---
+![](https://github-profile-trophy.vercel.app/?username=surajbhari&row=2&column=3&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=surajbhari&icon=4&color=5)](https://visitcount.itsvg.in)
+
+---
+
