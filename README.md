@@ -24,6 +24,11 @@
 <br>
 <h2 align="left">Connect with me on my social media:</h3>
 <p align="left">
+  
+![](https://dcbadge.vercel.app/api/shield/408994955147870208)
+![](https://dcbadge.vercel.app/api/server/2XVBWK99Vy)
+
+
 
 Visit my <a href="https://surajbhari.info">website</a> to find links to all of my social media profiles.
 
