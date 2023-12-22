@@ -36,7 +36,11 @@ Visit my <a href="https://surajbhari.info">website</a> to find links to all of m
 
 <h2>My GitHub Stats 📊</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SurajBhari&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajbhari&theme=radical)  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajbhari&theme=radical&utcOffset=5.30)
+
+<img src="https://github-readme-stats.vercel.app/api?username=SurajBhari&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/> 
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=julia)
