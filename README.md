@@ -4,7 +4,7 @@
 I'm a neophile who finds joy in automating tasks that would normally take just a couple of minutes.
 
 - 🌱 Currently deepening my knowledge of **C++**.
-- ✔ Proficient in **Python, C**, and have a basic understanding of JavaScript.
+- ✔ Proficient in **Python**, and have a basic understanding of JavaScript.
 - ✉ Feel free to reach out to me directly via email at [surajbhari159@gmail.com](mailto:surajbhari159@gmail.com).
 - 👨‍🎓 Currently pursuing my **B Tech in CS** from [G.E.H.U Dehradun](http://gehu.ac.in/) [Batch of 2021-2025].
 
