@@ -17,11 +17,44 @@ I'm a neophile who finds joy in automating tasks that would normally take just a
 - 💻 Sat in front of a computer for the first time at the age of 6.
 - 🏃‍♂️ Started programming at the age of 15.
 - 💻 While I prefer programming on Windows, I like hosting my projects on Ubuntu.
+## Get in Touch
+- Explore my [website](https://surajbhari.info) for direct links to all my social media profiles.
 
-## Connect with Me
-- Visit my [website](https://surajbhari.info) to find links to all of my social media profiles.
+## My Computing Setups
+<details>
+  <summary>Click to expand.</summary>
+
+I currently operate three systems: two desktop computers and a laptop.
+
+### Primary Desktop
+Specifications: 
+- Intel® Core™ i7 14700K processor
+- GeForce RTX™ 4060 Ti VENTUS 2X BLACK 16G OC graphics card
+- 32 GB DDR5 RAM clocked at 5200 MT/s
+- MSI MAG A850GL PCIE5 Power Supply Unit, offering 850W, 80 Plus Gold certification, and full modularity
+- Storage: Crucial P2 1TB 3D NAND NVMe PCIe M.2 SSD paired with a Western Digital SN730 NVMe SSD
+- Case: Ant Esports Crystal X4
+
+### Secondary Desktop
+- Laptop: [Victus by HP 16.1 inch Gaming Laptop PC 16-e0000 (2V8Z7AV)](https://support.hp.com/us-en/product/details/victus-by-hp-16.1-inch-gaming-laptop-pc-16-e0000/2100371512)
+  - This system has been relegated to secondary status due to its unreliable performance and poor build quality. It frequently idles at 85 degrees Celsius and crashes under load.
+
+### Server
+My server is underutilized but hosts essential utilities such as:
+- [Pi-hole](https://pi-hole.net/)
+- [Plex](https://www.plex.tv/)
+- [Jellyfin](https://jellyfin.org/)
+- It mainly functions as a NAS.
+  
+Server Specifications: 
+- Intel® Core™ i7-3770 Processor
+- 4 GB DDR3 RAM
+- Storage: 3 TB WD Blue (1 TB each)
+
+</details>
 
 ## My GitHub Stats 📊
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajBhari&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=julia)
 
