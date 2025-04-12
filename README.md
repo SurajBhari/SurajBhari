@@ -18,7 +18,7 @@ I'm a neophile who finds joy in automating tasks that would normally take just a
 - 🏃‍♂️ Started programming at the age of 15.
 - 💻 While I prefer programming on Windows, I like hosting my projects on Ubuntu.
 ## Get in Touch
-- Explore my [website](https://surajbhari.info) for direct links to all my social media profiles.
+- Explore my [website](https://surajbhari.com) for direct links to all my social media profiles.
 
 ## My Computing Setups
 <details>
