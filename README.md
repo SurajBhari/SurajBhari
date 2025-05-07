@@ -64,8 +64,4 @@ Server Specifications:
 
 ## GitHub Contributions
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajbhari&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com?user=surajbhari&theme=radical&hide_border=true)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajbhari&theme=radical&utcOffset=5.30)
-
-## Visitor Count
-[![Visitor Count](https://visitcount.itsvg.in/api?id=surajbhari&icon=4&color=5)](https://visitcount.itsvg.in)
