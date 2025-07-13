@@ -17,8 +17,7 @@ I'm a neophile who finds joy in automating tasks that would normally take just a
 - 💻 Sat in front of a computer for the first time at the age of 6.
 - 🏃‍♂️ Started programming at the age of 15.
 - 💻 While I prefer programming on Windows, I like hosting my projects on Ubuntu.
-## Get in Touch
-- Explore my [website](https://surajbhari.com) for direct links to all my social media profiles.
+
 
 ## My Computing Setups
 <details>
