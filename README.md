@@ -6,7 +6,7 @@ I'm a neophile who finds joy in automating tasks that would normally take just a
 - 🌱 Currently deepening my knowledge of **C++**.
 - ✔ Proficient in **Python**, and have a basic understanding of JavaScript.
 - ✉ Feel free to reach out to me directly via email at [surajbhari159@gmail.com](mailto:surajbhari159@gmail.com).
-- 👨‍🎓 Currently pursuing my **B Tech in CS** from [G.E.H.U Dehradun](http://gehu.ac.in/) [Batch of 2021-2025].
+- 👨‍🎓 Done my **B Tech in CS** from [G.E.H.U Dehradun](http://gehu.ac.in/) [Batch of 2021-2025].
 
 ## Other Interests
 - 🎵 I love listening to music.
@@ -58,8 +58,8 @@ Server Specifications:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=julia)
 
 ## Social Media
-[![Discord](https://dcbadge.vercel.app/api/shield/408994955147870208)](https://discord.com/users/408994955147870208)
-[![Discord Server](https://dcbadge.vercel.app/api/server/2XVBWK99Vy)](https://discord.gg/2XVBWK99Vy)
+[![Discord](https://dcbadge.limes.pink/api/shield/408994955147870208)](https://discord.com/users/408994955147870208)
+[![Discord Server](https://dcbadge.limes.pink/api/server/2XVBWK99Vy)](https://discord.gg/2XVBWK99Vy)
 
 ## GitHub Contributions
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajbhari&theme=radical)
