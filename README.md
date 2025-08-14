@@ -54,13 +54,13 @@ Server Specifications:
 
 ## My GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajBhari&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=julia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajBhari&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhari&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=julia)
 
 ## Social Media
 [![Discord](https://dcbadge.limes.pink/api/shield/408994955147870208)](https://discord.com/users/408994955147870208)
 [![Discord Server](https://dcbadge.limes.pink/api/server/2XVBWK99Vy)](https://discord.gg/2XVBWK99Vy)
 
 ## GitHub Contributions
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajbhari&theme=radical)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajbhari&theme=radical&utcOffset=5.30)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajbhari&theme=transparent)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajbhari&theme=transparent&utcOffset=5.30)
