@@ -25,6 +25,17 @@ I build practical tools end-to-end: scrape the data, wrap it in a Flask backend,
 | ⬇️ [streamsnip_downloader](https://github.com/SurajBhari/streamsnip_downloader) | CLI that pulls clip segments as real video via yt-dlp. |
 | 📊 StreamStats | Real-time YouTube live-chat analytics (Flask + PostgreSQL + Three.js). |
 
+## 🚀 Live demos — try them now
+
+A few of my apps are deployed and live (free tier, so the **first load may take ~30s to wake up**):
+
+| Demo | What it is |
+|------|------------|
+| 🎮 **[Pokémon Judgment](https://pokegame-axf3.onrender.com)** | A stat-guessing Pokémon battler — bet which stat wins each round. |
+| 🎬 **[Sadela Movie Search](https://mini-search-engine-5oyp.onrender.com)** | Search ~9,000 real films by title, genre, year, or plot — with posters. |
+| 🔗 **[Mini Linker](https://mini-linker.onrender.com)** | Turn a YouTube channel ID into permanent links to its latest video / Short / stream. |
+| 🏠 **[Real-Estate CRM (demo)](https://real-estate-managment.onrender.com)** | A plot-sales manager — the demo login is pre-filled, just hit **Login**. |
+
 ## 🛠️ More things I've built
 
 **🎥 Streaming & YouTube tools**
@@ -50,8 +61,8 @@ I build practical tools end-to-end: scrape the data, wrap it in a Flask backend,
 
 **🎮 Games & fun**
 [hand_cricket](https://github.com/SurajBhari/hand_cricket) (play with your webcam via OpenCV) ·
-[pokegame](https://github.com/SurajBhari/pokegame) ·
-[mini_search_engine](https://github.com/SurajBhari/mini_search_engine) (a search engine built in a 24h hackathon) ·
+[pokegame](https://github.com/SurajBhari/pokegame) (Pokémon stat-battler) ·
+[mini_search_engine](https://github.com/SurajBhari/mini_search_engine) (movie search engine — ~9k films with posters) ·
 [configs](https://github.com/SurajBhari/configs) & [csgo-executes-config](https://github.com/SurajBhari/csgo-executes-config) (CS:GO practice configs) ·
 [csgo-music-play-pause](https://github.com/SurajBhari/csgo-music-play-pause)
 
